@@ -1,2 +1,3 @@
 # hello-world
-Hello World intro to GitHub
+
+Testing GitHub for future python projects
